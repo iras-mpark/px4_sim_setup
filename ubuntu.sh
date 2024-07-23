@@ -98,8 +98,7 @@ sudo DEBIAN_FRONTEND=noninteractive apt-get -y --quiet --no-install-recommends i
 	rsync \
 	shellcheck \
 	unzip \
-	zip \
-	;
+	zip
 
 # Python3 dependencies
 echo
