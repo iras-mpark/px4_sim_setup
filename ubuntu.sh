@@ -94,6 +94,7 @@ sudo DEBIAN_FRONTEND=noninteractive apt-get -y --quiet --no-install-recommends i
 	python3-pip \
 	python3-setuptools \
 	python3-wheel \
+	python3-genmsg \ 
 	rsync \
 	shellcheck \
 	unzip \
